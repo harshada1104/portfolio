@@ -11,6 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+You can view the live project demonstration on :-https://harshadaportfolio.netlify.app/
+
+<img src="https://i.ibb.co/3sYcjL6/Screenshot-27.png" width="600px" alt="Screenshot-27" border="0">
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
