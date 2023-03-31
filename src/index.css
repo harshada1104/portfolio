@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 .btn {
+  
   background: linear-gradient(
     92.23deg,
     #ff56f6 21.43%,
