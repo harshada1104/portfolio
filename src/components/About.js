@@ -5,9 +5,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 
 const About = () => {
-  // const [ref, inView] = useInView({
-  //   threshold: 0.5,
-  // });
+ 
   return (
     <section className="section" id="about" >
       <div className="container mx-auto">
